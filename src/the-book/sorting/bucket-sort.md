@@ -1,5 +1,8 @@
 # 桶排序
 
+[代码实现](../../codes/sorting/examples/bucket_sort.rs)
+
+
 ```rust
 /// Sort a slice using bucket sort algorithm.
 ///

@@ -2,7 +2,7 @@
 authors = ["course.rs"]
 language = "zh-CN"
 multilingual = false
-src = "src"
+src = "src/the-book"
 title = "Rust算法教程 The Algos (algorithms)"
 
 [output.html]

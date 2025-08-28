@@ -3,8 +3,8 @@
 [Rust算法教程](./about-book.md)
 
 - [排序](sorting/index.md)
-    - [冒泡排序](sorting/bubble-sort.md)
-    - [桶排序](sorting/bucket-sort.md)
+    - [冒泡排序](sorting/bubble-sort.md) (已实现)
+    - [桶排序](sorting/bucket-sort.md) (已实现)
     - [鸡尾酒排序](sorting/cocktail-shaker-sort.md)
     - [梳排序](sorting/comb-sort.md)
     - [计数排序](sorting/counting-sort.md)

@@ -1,0 +1,16 @@
+[package]
+name = "rust-algos"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "rust-algos"
+path = "src/codes/main.rs"
+
+[workspace]
+members = [
+    "src/codes/*",
+]
+
+
+[dependencies]
